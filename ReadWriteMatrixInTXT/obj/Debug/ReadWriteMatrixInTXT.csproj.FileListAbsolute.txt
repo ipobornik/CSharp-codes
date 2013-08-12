@@ -1,0 +1,6 @@
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\ReadWriteMatrixInTXT\bin\Debug\ReadWriteMatrixInTXT.exe.config
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\ReadWriteMatrixInTXT\bin\Debug\ReadWriteMatrixInTXT.exe
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\ReadWriteMatrixInTXT\bin\Debug\ReadWriteMatrixInTXT.pdb
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\ReadWriteMatrixInTXT\obj\Debug\ReadWriteMatrixInTXT.csprojResolveAssemblyReference.cache
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\ReadWriteMatrixInTXT\obj\Debug\ReadWriteMatrixInTXT.exe
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\ReadWriteMatrixInTXT\obj\Debug\ReadWriteMatrixInTXT.pdb
