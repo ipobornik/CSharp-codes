@@ -1,0 +1,6 @@
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\KadaneAlgorithm\bin\Debug\KadaneAlgorithm.exe.config
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\KadaneAlgorithm\bin\Debug\KadaneAlgorithm.exe
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\KadaneAlgorithm\bin\Debug\KadaneAlgorithm.pdb
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\KadaneAlgorithm\obj\Debug\KadaneAlgorithm.exe
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\KadaneAlgorithm\obj\Debug\KadaneAlgorithm.pdb
+D:\Telerik\MyCSharp experiments\MyCSharp experiments\KadaneAlgorithm\obj\Debug\KadaneAlgorithm.csprojResolveAssemblyReference.cache
