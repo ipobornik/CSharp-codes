@@ -1,0 +1,6 @@
+D:\Telerik\TFS\ConsoleGame SID Team 2013\ConsoleGame\ConsoleGame\Puzzel\bin\Debug\Puzzel.exe.config
+D:\Telerik\TFS\ConsoleGame SID Team 2013\ConsoleGame\ConsoleGame\Puzzel\bin\Debug\Puzzel.exe
+D:\Telerik\TFS\ConsoleGame SID Team 2013\ConsoleGame\ConsoleGame\Puzzel\bin\Debug\Puzzel.pdb
+D:\Telerik\TFS\ConsoleGame SID Team 2013\ConsoleGame\ConsoleGame\Puzzel\obj\Debug\Puzzel.csprojResolveAssemblyReference.cache
+D:\Telerik\TFS\ConsoleGame SID Team 2013\ConsoleGame\ConsoleGame\Puzzel\obj\Debug\Puzzel.exe
+D:\Telerik\TFS\ConsoleGame SID Team 2013\ConsoleGame\ConsoleGame\Puzzel\obj\Debug\Puzzel.pdb
